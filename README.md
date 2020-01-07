@@ -1,4 +1,3 @@
-<center>
 # 3D-graphics-images-when-depth-is-given
 3D graphics images when depth is given
 
@@ -35,11 +34,11 @@ Data viewed from a front.
 <img width="400" src="https://user-images.githubusercontent.com/44941601/71878097-2e3af200-316e-11ea-95d9-bc3e4ef18463.png"> 
   
 <hr/>
-</center>  
-<div style="text-align: right">  
+ 
+
 VS2017  
 Programs written with C
-</div>  
+
   
   
   
