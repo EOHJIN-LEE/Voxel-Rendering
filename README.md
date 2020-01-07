@@ -1,3 +1,4 @@
+<center>
 # 3D-graphics-images-when-depth-is-given
 3D graphics images when depth is given
 
@@ -18,7 +19,7 @@ Data viewed from a diagonal.
 <img width="700" src="https://user-images.githubusercontent.com/44941601/71877206-f3d05580-316b-11ea-99a9-616fefc7d5be.png">  
 <img width="400" src="https://user-images.githubusercontent.com/44941601/71877211-f8950980-316b-11ea-8c1b-8b864fbce7ba.png">
   
-**If you set the range deeper**
+<u>**If you set the range deeper**</u>
 <img width="700" src="https://user-images.githubusercontent.com/44941601/71877216-faf76380-316b-11ea-8367-932b267f4fe3.png">  
 <img width="400" src="https://user-images.githubusercontent.com/44941601/71877222-fdf25400-316b-11ea-8d69-1e122f85697f.png">  
   
@@ -34,10 +35,11 @@ Data viewed from a front.
 <img width="400" src="https://user-images.githubusercontent.com/44941601/71878097-2e3af200-316e-11ea-95d9-bc3e4ef18463.png"> 
   
 <hr/>
-  
-  
+</center>  
+<div style="text-align: right">  
 VS2017  
-Programs written with C  
+Programs written with C
+</div>  
   
   
   
