@@ -1,0 +1,109 @@
+﻿  gmath.cpp
+  RayCast.cpp
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(62): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(154): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(185): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(180): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(339): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(413): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(415): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(416): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(417): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(418): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(419): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(420): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(421): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(423): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(425): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(426): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(427): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(428): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(429): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(430): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(431): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(447): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(451): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(487): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(496): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(501): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(505): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(506): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(511): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(512): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(513): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(518): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(519): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(520): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(572): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(574): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(575): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(576): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(577): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(578): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(579): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(580): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(582): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(584): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(585): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(586): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(587): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(588): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(589): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(590): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(606): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(610): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(646): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(655): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(660): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(664): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(665): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(670): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(671): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(672): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(677): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(678): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(679): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(750): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(752): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(753): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(754): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(755): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(756): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(757): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(758): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(760): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(762): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(763): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(764): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(765): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(766): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(767): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(768): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(784): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(788): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(827): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(836): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(841): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(845): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(846): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(851): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(852): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(853): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(858): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(859): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\direc\desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastvr\raycast.cpp(860): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  131 of 136 functions (96.3%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  RayCast.vcxproj -> C:\Users\direc\Desktop\했던 과제들\가상증강현실 - dense로 이미지 표현\lastVR\usr\bin\RayCast.exe
