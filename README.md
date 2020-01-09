@@ -1,10 +1,10 @@
-# 3D-graphics-images-when-depth-is-given
-3D graphics images when depth is given
+# 3D-graphics-images-when-VolumeDate-is-given
+3D graphics images when VolumeDate is given
 
 Description
 ===========
   
-This program visualizes data given only depth.  
+This program visualizes VolumeDate given only depth.  
 ----------------------------------------------
 You can choose where to view visualized data.  
 ---------------------------------------------
