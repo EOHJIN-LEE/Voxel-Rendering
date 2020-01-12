@@ -37,7 +37,6 @@ Data viewed from a front.
  
 
 VS2017  
-Programs written with C
 
   
   
