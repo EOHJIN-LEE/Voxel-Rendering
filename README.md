@@ -12,7 +12,17 @@ The program is code written using computer graphics technology.
 ---------------------------------------------------------------
   
 <hr/>  
-  
+
+Project Solution Design
+---------------------
+
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72230596-e696e900-35f9-11ea-80d6-d9e6d12bb7c2.png">    
+1. Compute the normal vector by loading the volume data.
+2. Thereafter, the ray is shot to accumulate opacity each time it passes through the point.
+3. If enough opacity has accumulated, create an image.
+4. Render the generated image.
+
+<hr/> 
 Data viewed from a diagonal.
 ---------------------------
 <img width="700" src="https://user-images.githubusercontent.com/44941601/71877206-f3d05580-316b-11ea-99a9-616fefc7d5be.png">  
