@@ -1,5 +1,5 @@
-# 3D-graphics-images-when-VolumeDate-is-given
-3D graphics images when VolumeDate is given
+# Computer-Graphics-Rendering Images-when-VolumeDate-is-given
+Computer graphics Rendering Images when VolumeDate is given
 
 Description
 ===========
