@@ -27,6 +27,7 @@ Project Solution Design
 4. Render the generated image.
 
 <hr/> 
+
 Data viewed from a diagonal.
 ---------------------------
 <img width="700" src="https://user-images.githubusercontent.com/44941601/71877206-f3d05580-316b-11ea-99a9-616fefc7d5be.png">  
