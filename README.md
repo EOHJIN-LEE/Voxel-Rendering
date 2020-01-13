@@ -20,11 +20,14 @@ Project Solution Design
 
 1. Compute the normal vector by loading the volume data.
 
+<img width="700" src="https://user-images.githubusercontent.com/44941601/72230828-58236700-35fb-11ea-9cd0-5453c2cd6210.png">   
+
 2. Thereafter, the ray is shot to accumulate opacity each time it passes through the point.
 
 3. If enough opacity has accumulated, create an image.
 
 4. Render the generated image.
+
 
 <hr/> 
 
